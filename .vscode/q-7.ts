@@ -1,0 +1,14 @@
+var myName = 'Q 7';
+console.log(myName);
+var n1 = 4;
+var n2 = 4;
+console.log(n1 + n2);
+var n3 = 13;
+var n4 = 5;
+console.log(n3 - n4);
+var n5 = 4;
+var n6 = 2;
+console.log(n5 * n6);
+var n7 = 40;
+var n8 = 5;
+console.log(n7 / n8);
